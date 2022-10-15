@@ -1,0 +1,57 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Yaban",
+      "author": "Yakup Kadri",
+      "isbn": "1111111111114",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Tanri Misafiri",
+      "author": "Resat Nuri",
+      "isbn": "1111111111113",
+      "categoryId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Suc ve Ceza",
+      "author": "Dostoyevsky",
+      "isbn": "1111111111112",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Denemeler",
+      "author": "Montaigne",
+      "isbn": "1111111111111",
+      "categoryId": 3
+    },
+    {
+      "id": 1665787785058,
+      "name": "Bes Sehir",
+      "author": "Ahmet Hamdi Tanpinar",
+      "isbn": "111111112",
+      "categoryId": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Roman"
+    },
+    {
+      "id": "2",
+      "name": "Hikaye"
+    },
+    {
+      "id": "3",
+      "name": "Deneme"
+    },
+    {
+      "id": "4",
+      "name": "Siir"
+    }
+  ]
+}
